@@ -18,10 +18,10 @@
     "source": "src/**/*.js"
   },
   "markupProcessor": {
-    "id": "none",
-    "displayName": "None",
-    "fileExtension": ".html",
-    "source": "src/**/*.html"
+    "id": "jade",
+    "displayName": "Jade",
+    "fileExtension": ".jade",
+    "source": "src/**/*.jade"
   },
   "cssProcessor": {
     "id": "sass",
